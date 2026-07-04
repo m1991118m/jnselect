@@ -11,7 +11,7 @@ const products = [
     salePrice: 2880,
     timing: "預購｜8 月底前",
     tags: ["本週主打", "限量外殼", "收藏款"],
-    image: "public/images/dior-flowery-bow.jpg",
+    image: "dior-flowery-bow.jpg",
     highlight: "限量高訂外殼、白色玫瑰蝴蝶結收藏款",
     description: "白色玫瑰款清新、優雅、不甜膩，很適合喜歡乾淨感、法式感、精品小物感的人。",
     lineMessage: "我要詢問：DIOR Flowery Bow 玫瑰限量氣墊，款式色號：柔霧 / 水光"
@@ -26,7 +26,7 @@ const products = [
     salePrice: 1580,
     timing: "8/21 上市｜預購約 9 月底到",
     tags: ["夏日推薦", "明星品", "公司貨"],
-    image: "public/images/sabon-body-scrub.jpg",
+    image: "sabon-body-scrub.jpg",
     highlight: "SABON 經典明星品、夏日果香去角質",
     description: "SABON 經典明星品，去角質同時留下熱帶果香。",
     lineMessage: "我要下單：SABON 熱帶果嶼身體磨砂膏 600ml"
@@ -41,7 +41,7 @@ const products = [
     salePrice: 2380,
     timing: "預購｜7/6 上市｜預計 8 月底出貨",
     tags: ["限量系列", "不撞香", "公司貨"],
-    image: "public/images/jo-malone-garden-hero.jpg",
+    image: "jo-malone-garden-hero.jpg",
     highlight: "限量蔬果香氛、乾淨綠意感、不撞香",
     description: "清新田園感香氣，有記憶點又不會太甜膩。",
     lineMessage: "我要詢問：Jo Malone 限量英倫田園香水 30ml"
@@ -56,7 +56,7 @@ const products = [
     salePrice: 930,
     timing: "7/23 上市｜預購約 8 月底到",
     tags: ["入門推薦", "送禮自用", "公司貨"],
-    image: "public/images/sabon-welcome-kit.jpg",
+    image: "sabon-welcome-kit.jpg",
     highlight: "第一次入手 SABON 很適合",
     description: "一次收齊人氣三步驟，送禮自用都很適合。",
     lineMessage: "我要下單：SABON 熱帶果嶼明星三部曲推薦組"
@@ -71,7 +71,7 @@ const products = [
     salePrice: 3980,
     timing: "預購｜7/6 上市｜預計 8 月底出貨",
     tags: ["收藏款", "居家香氛", "公司貨"],
-    image: "public/images/jo-green-tomato-candle.jpg",
+    image: "jo-green-tomato-candle.jpg",
     highlight: "收藏款、居家香氛、質感擺設",
     description: "大容量陶瓷蠟燭，收藏感與擺設感都很強。",
     lineMessage: "我要下單：Jo Malone 綠番茄藤陶瓷蠟燭 300g"
@@ -85,7 +85,7 @@ const products = [
     salePrice: 990,
     timing: "7/23 上市｜預購約 8 月底到",
     tags: ["預購", "限量系列"],
-    image: "public/images/sabon-shower-oil-500.jpg",
+    image: "sabon-shower-oil-500.jpg",
     description: "清潔同時保有柔潤膚觸，洗完像把夏日果香留在肌膚上。",
     lineMessage: "我要下單：SABON 熱帶果嶼輕潤沐浴油 500ml"
   },
@@ -98,7 +98,7 @@ const products = [
     salePrice: 790,
     timing: "7/23 上市｜預購約 8 月底到",
     tags: ["預購", "入門容量"],
-    image: "public/images/sabon-shower-oil-500.jpg",
+    image: "sabon-shower-oil-500.jpg",
     description: "輕巧容量更適合第一次入手，清爽果香日常也很好用。",
     lineMessage: "我要下單：SABON 熱帶果嶼輕潤沐浴油 300ml"
   },
@@ -111,7 +111,7 @@ const products = [
     salePrice: 320,
     timing: "7/23 上市｜預購約 8 月底到",
     tags: ["隨身補香", "公司貨"],
-    image: "public/images/sabon-hand-cream-30.jpg",
+    image: "sabon-hand-cream-30.jpg",
     description: "隨身補香補潤的小可愛，清甜果香剛剛好。",
     lineMessage: "我要下單：SABON 熱帶果嶼護手霜 30ml"
   },
@@ -124,7 +124,7 @@ const products = [
     salePrice: 1150,
     timing: "8/14 上市｜預購約 9 月底到",
     tags: ["清爽保濕", "夏日推薦"],
-    image: "public/images/sabon-body-gelee-200.jpg",
+    image: "sabon-body-gelee-200.jpg",
     description: "夏天最適合的清爽保濕感，擦完肌膚嫩嫩香香的。",
     lineMessage: "我要下單：SABON 熱帶果嶼清爽保濕凝凍 200ml"
   },
@@ -137,7 +137,7 @@ const products = [
     salePrice: 1150,
     timing: "8/21 上市｜預購約 9 月底到",
     tags: ["預購", "入門容量"],
-    image: "public/images/sabon-body-scrub.jpg",
+    image: "sabon-body-scrub.jpg",
     description: "喜歡磨砂膏但想先小容量入手的人很適合。",
     lineMessage: "我要下單：SABON 熱帶果嶼身體磨砂膏 320ml"
   },
@@ -150,7 +150,7 @@ const products = [
     salePrice: 2380,
     timing: "預購｜7/6 上市｜預計 8 月底出貨",
     tags: ["限量系列", "田園香氣"],
-    image: "public/images/jo-carrot-blossom.jpg",
+    image: "jo-carrot-blossom.jpg",
     description: "清新花香中帶一點自然綠意，溫柔又很有田園感。",
     lineMessage: "我要下單：Jo Malone 蕾絲胡蘿蔔花香水 30ml"
   },
@@ -163,7 +163,7 @@ const products = [
     salePrice: 2380,
     timing: "預購｜7/6 上市｜預計 8 月底出貨",
     tags: ["限量系列", "不撞香"],
-    image: "public/images/jo-scarlet-beetroot.jpg",
+    image: "jo-scarlet-beetroot.jpg",
     description: "帶點甜潤、微微泥土感的蔬果香氣，很特別不撞香。",
     lineMessage: "我要下單：Jo Malone 緋紅甜菜根香水 30ml"
   },
@@ -176,7 +176,7 @@ const products = [
     salePrice: 2380,
     timing: "預購｜7/6 上市｜預計 8 月底出貨",
     tags: ["限量系列", "暖甜感"],
-    image: "public/images/jo-velvety-butternut.jpg",
+    image: "jo-velvety-butternut.jpg",
     description: "柔和溫暖的奶油南瓜香，舒服、可愛又帶一點暖甜感。",
     lineMessage: "我要下單：Jo Malone 絲絨奶油南瓜香水 30ml"
   },
@@ -189,7 +189,7 @@ const products = [
     salePrice: 1580,
     timing: "預購｜7/6 上市｜預計 8 月底出貨",
     tags: ["可作沐浴露", "綠意香氣"],
-    image: "public/images/jo-tomato-leaf-wash.jpg",
+    image: "jo-tomato-leaf-wash.jpg",
     description: "可做沐浴露使用，番茄葉香氣清爽有綠意，洗完很乾淨舒服。",
     lineMessage: "我要下單：Jo Malone 番茄葉手部清潔露 250ml"
   },
@@ -202,7 +202,7 @@ const products = [
     salePrice: 1550,
     timing: "預購｜7/6 上市｜預計 8 月底出貨",
     tags: ["小容量收藏", "居家香氛"],
-    image: "public/images/jo-green-tomato-candle.jpg",
+    image: "jo-green-tomato-candle.jpg",
     description: "小容量收藏款，適合想先入手綠意香氛的人。",
     lineMessage: "我要下單：Jo Malone 綠番茄藤陶瓷蠟燭 75g"
   }
